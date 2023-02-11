@@ -29,4 +29,4 @@ go run main.go -csv=questions.csv -limit=10
 ```
 This will run the quiz game with the questions from `questions.csv` file, and a time limit of 10 seconds.
 
-<img src="https://example.com/image.png" width="400" height="300">
+<img src="[https://example.com/image.png](https://wallpaperaccess.com/full/5750684.jpg)" width="700" height="300">
