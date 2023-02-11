@@ -28,3 +28,5 @@ Here is an example of how to run the quiz game with a different CSV file and tim
 go run main.go -csv=questions.csv -limit=10
 ```
 This will run the quiz game with the questions from `questions.csv` file, and a time limit of 10 seconds.
+
+![gopher](https://wallpaperaccess.com/full/5750684.jpg)
